@@ -1,0 +1,26 @@
+C:\Users\allen\source\repos\ASP.NET Class\Practice 1 Module 1\Practice 1 Module 1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\allen\source\repos\ASP.NET Class\Practice 1 Module 1\Practice 1 Module 1\bin\Debug\net7.0\appsettings.json
+C:\Users\allen\source\repos\ASP.NET Class\Practice 1 Module 1\Practice 1 Module 1\bin\Debug\net7.0\Practice 1 Module 1.exe
+C:\Users\allen\source\repos\ASP.NET Class\Practice 1 Module 1\Practice 1 Module 1\bin\Debug\net7.0\Practice 1 Module 1.deps.json
+C:\Users\allen\source\repos\ASP.NET Class\Practice 1 Module 1\Practice 1 Module 1\bin\Debug\net7.0\Practice 1 Module 1.runtimeconfig.json
+C:\Users\allen\source\repos\ASP.NET Class\Practice 1 Module 1\Practice 1 Module 1\bin\Debug\net7.0\Practice 1 Module 1.dll
+C:\Users\allen\source\repos\ASP.NET Class\Practice 1 Module 1\Practice 1 Module 1\bin\Debug\net7.0\Practice 1 Module 1.pdb
+C:\Users\allen\source\repos\ASP.NET Class\Practice 1 Module 1\Practice 1 Module 1\obj\Debug\net7.0\Practice 1 Module 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allen\source\repos\ASP.NET Class\Practice 1 Module 1\Practice 1 Module 1\obj\Debug\net7.0\Practice 1 Module 1.AssemblyInfoInputs.cache
+C:\Users\allen\source\repos\ASP.NET Class\Practice 1 Module 1\Practice 1 Module 1\obj\Debug\net7.0\Practice 1 Module 1.AssemblyInfo.cs
+C:\Users\allen\source\repos\ASP.NET Class\Practice 1 Module 1\Practice 1 Module 1\obj\Debug\net7.0\Practice 1 Module 1.csproj.CoreCompileInputs.cache
+C:\Users\allen\source\repos\ASP.NET Class\Practice 1 Module 1\Practice 1 Module 1\obj\Debug\net7.0\Practice 1 Module 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\allen\source\repos\ASP.NET Class\Practice 1 Module 1\Practice 1 Module 1\obj\Debug\net7.0\staticwebassets\msbuild.Practice 1 Module 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\allen\source\repos\ASP.NET Class\Practice 1 Module 1\Practice 1 Module 1\obj\Debug\net7.0\staticwebassets\msbuild.build.Practice 1 Module 1.props
+C:\Users\allen\source\repos\ASP.NET Class\Practice 1 Module 1\Practice 1 Module 1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Practice 1 Module 1.props
+C:\Users\allen\source\repos\ASP.NET Class\Practice 1 Module 1\Practice 1 Module 1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Practice 1 Module 1.props
+C:\Users\allen\source\repos\ASP.NET Class\Practice 1 Module 1\Practice 1 Module 1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\allen\source\repos\ASP.NET Class\Practice 1 Module 1\Practice 1 Module 1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\allen\source\repos\ASP.NET Class\Practice 1 Module 1\Practice 1 Module 1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\allen\source\repos\ASP.NET Class\Practice 1 Module 1\Practice 1 Module 1\obj\Debug\net7.0\scopedcss\bundle\Practice 1 Module 1.styles.css
+C:\Users\allen\source\repos\ASP.NET Class\Practice 1 Module 1\Practice 1 Module 1\obj\Debug\net7.0\Practice 1 Module 1.dll
+C:\Users\allen\source\repos\ASP.NET Class\Practice 1 Module 1\Practice 1 Module 1\obj\Debug\net7.0\refint\Practice 1 Module 1.dll
+C:\Users\allen\source\repos\ASP.NET Class\Practice 1 Module 1\Practice 1 Module 1\obj\Debug\net7.0\Practice 1 Module 1.pdb
+C:\Users\allen\source\repos\ASP.NET Class\Practice 1 Module 1\Practice 1 Module 1\obj\Debug\net7.0\Practice 1 Module 1.genruntimeconfig.cache
+C:\Users\allen\source\repos\ASP.NET Class\Practice 1 Module 1\Practice 1 Module 1\obj\Debug\net7.0\ref\Practice 1 Module 1.dll
+C:\Users\allen\source\repos\ASP.NET Class\Practice 1 Module 1\Practice 1 Module 1\bin\Debug\net7.0\Practice 1 Module 1.staticwebassets.runtime.json

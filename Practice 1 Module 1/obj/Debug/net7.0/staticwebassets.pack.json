@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\allen\\source\\repos\\ASP.NET Class\\Practice 1 Module 1\\Practice 1 Module 1\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "C:\\Users\\allen\\source\\repos\\ASP.NET Class\\Practice 1 Module 1\\Practice 1 Module 1\\wwwroot\\images\\Images\\Cat1.webp",
+      "PackagePath": "staticwebassets\\images\\Images\\Cat1.webp"
+    },
+    {
+      "Id": "C:\\Users\\allen\\source\\repos\\ASP.NET Class\\Practice 1 Module 1\\Practice 1 Module 1\\wwwroot\\images\\Images\\Cat2.webp",
+      "PackagePath": "staticwebassets\\images\\Images\\Cat2.webp"
+    },
+    {
+      "Id": "C:\\Users\\allen\\source\\repos\\ASP.NET Class\\Practice 1 Module 1\\Practice 1 Module 1\\wwwroot\\images\\Images\\Colorful image.jpg",
+      "PackagePath": "staticwebassets\\images\\Images\\Colorful image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\allen\\source\\repos\\ASP.NET Class\\Practice 1 Module 1\\Practice 1 Module 1\\wwwroot\\images\\Images\\Lolas Logo.png",
+      "PackagePath": "staticwebassets\\images\\Images\\Lolas Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\allen\\source\\repos\\ASP.NET Class\\Practice 1 Module 1\\Practice 1 Module 1\\wwwroot\\images\\Images\\Lolas Logo3.png",
+      "PackagePath": "staticwebassets\\images\\Images\\Lolas Logo3.png"
+    },
+    {
+      "Id": "C:\\Users\\allen\\source\\repos\\ASP.NET Class\\Practice 1 Module 1\\Practice 1 Module 1\\wwwroot\\images\\Images\\cat3.jpg",
+      "PackagePath": "staticwebassets\\images\\Images\\cat3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\allen\\source\\repos\\ASP.NET Class\\Practice 1 Module 1\\Practice 1 Module 1\\wwwroot\\images\\Images\\cat5.jpg",
+      "PackagePath": "staticwebassets\\images\\Images\\cat5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\allen\\source\\repos\\ASP.NET Class\\Practice 1 Module 1\\Practice 1 Module 1\\wwwroot\\images\\Images\\cat6.jpeg",
+      "PackagePath": "staticwebassets\\images\\Images\\cat6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\allen\\source\\repos\\ASP.NET Class\\Practice 1 Module 1\\Practice 1 Module 1\\wwwroot\\images\\Images\\cat7.jpg",
+      "PackagePath": "staticwebassets\\images\\Images\\cat7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\allen\\source\\repos\\ASP.NET Class\\Practice 1 Module 1\\Practice 1 Module 1\\wwwroot\\images\\Images\\cat8.webp",
+      "PackagePath": "staticwebassets\\images\\Images\\cat8.webp"
+    },
+    {
+      "Id": "C:\\Users\\allen\\source\\repos\\ASP.NET Class\\Practice 1 Module 1\\Practice 1 Module 1\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Practice 1 Module 1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Practice 1 Module 1.props",
+      "PackagePath": "build\\Practice 1 Module 1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Practice 1 Module 1.props",
+      "PackagePath": "buildMultiTargeting\\Practice 1 Module 1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Practice 1 Module 1.props",
+      "PackagePath": "buildTransitive\\Practice 1 Module 1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
